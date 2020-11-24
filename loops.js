@@ -23,11 +23,4 @@ function whileLoop(n){
 
 
 function doWhileLoop(num){
-  num += 1;
-  return num
-}
-
-do{
-  console.log("I run once regardless");
-while (doWhileLoop()<= 0)
 }
