@@ -29,3 +29,5 @@ function doWhileLoop(num){
     console.log("I run once regardless.");}
   while( i<= num)
 }
+
+doWhileLoop(0);
