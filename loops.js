@@ -25,7 +25,6 @@ let i = 0;
 function doWhileLoop(num){
   do{
     i= i+ 1;
-    return i;
     console.log("I run once regardless.");}
   while( i<= num)
 }
