@@ -31,5 +31,3 @@ do{
   console.log("I run once regardless");
 while (doWhileLoop()<= 0)
 }
-
-
